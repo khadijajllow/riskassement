@@ -5,5 +5,5 @@ Risk assessment algorithms are used by the courts, usually judges and prosecutor
 
 # Project Goals
 1. Evaulate literature and research on risk assesment algorithms and their impact 
-2. Possibly try to mimic a RAA with several datasets would look like and
+2. Possibly try to mimic a RAA with several datasets and see what it would produce
 3.  Evaulte the effects and issues in blindly using such algorithms in crimial justice system and show how these algorithms, the data used and such are as biased as the people who are using/creating them. 
